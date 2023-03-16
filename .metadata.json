@@ -1,0 +1,10 @@
+[
+  {
+    "package": "loadshaper",
+    "oncran": true
+  },
+  {
+    "package": "ROCit",
+    "oncran": true
+  }
+]
