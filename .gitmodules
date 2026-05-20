@@ -5,6 +5,3 @@
 [submodule "ROCit"]
 	path = ROCit
 	url = https://github.com/riazakhan94/rocit
-[submodule "loadshaper"]
-	path = loadshaper
-	url = https://github.com/riazakhan94/loadshaper
